@@ -5,7 +5,7 @@
 ## Education	 			        		
 - B.S., Data Science & Analytics | The Hong Kong Polytechnic University ( Sep 2022 - Present)
 - Exchange Student | CHALMERS UNIVERSITY OF TECHNOLOGY ( Aug 2023 - _Jan 2024_)
-- ASSOCIATE IN STATISTICS AND DATA SCIENCE  |  HONG KONG COMMUNITY COLLEGE （ Sep 2020 - Aug 2022)
+- Associate Degree., Data Science & Analytics | HONG KONG COMMUNITY COLLEGE （ Sep 2020 - Aug 2022)
 
 ## Work Experience
 **Summer Intern @ Hongkong International Terminals ( June 2023 - Aug 2023)**
