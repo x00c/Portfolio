@@ -19,6 +19,6 @@
 - Assist with tasks at events, such as answering questions from the public, handling equipment or audio-visual systems, or resolving any issues or concerns that arise during the event.
 
 ## ACHIEVEMENT
-**The Distinction Award** - the Australian National Chemistry Quiz in 2018.
-**The individual merit award & The team's third prize** - Beijing-Hong Kong Secondary School Students' Subway Model Train Creative Technology Competition
-**Innovation Award & Second Prize** - Belt and Road Pioneer
+- **The Distinction Award** - the Australian National Chemistry Quiz in 2018.
+- **The individual merit award & The team's third prize** - Beijing-Hong Kong Secondary School Students' Subway Model Train Creative Technology Competition
+- **Innovation Award & Second Prize** - Belt and Road Pioneer
