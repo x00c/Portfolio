@@ -5,13 +5,13 @@
 ## Education	 			        		
 - B.S., Data Science & Analytics | The Hong Kong Polytechnic University ( Sep 2022 - Present)
 - Exchange Student | CHALMERS UNIVERSITY OF TECHNOLOGY ( Aug 2023 - _Jan 2024_)
-- ASSOCIATE IN STATISTICS AND DATA SCIENCE ｜ HONG KONG COMMUNITY COLLEGE （ Sep 2020 - Aug 2022)
+- ASSOCIATE IN STATISTICS AND DATA SCIENCE  |  HONG KONG COMMUNITY COLLEGE （ Sep 2020 - Aug 2022)
 
 ## Work Experience
 **Summer Intern @ Hongkong International Terminals ( June 2023 - Aug 2023)**
 - Developing a framework for reorganizing IP-related documents.
 - Documenting the SRF workflow and producing a detailed report.
-- Managing the change implementation task of preparing and registering implementation plan, updating the progress, and doing a final verification.
+- Managing the change implementation task of preparing and registering the implementation plan, updating the progress, and doing a final verification.
 
 
 **Event Helper @ THE CHINESE MANUFACTURERS’S ASSOCIATION OF HK ( December 2022 - Jan 2023)**
